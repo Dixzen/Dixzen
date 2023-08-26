@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏽‍🎓I'm a 3rd year student pursuing B.Tech CSE from NIIT University.<br>🧑🏽‍💻I'm an aspiring web developer.<br>👯I'm open to collaborate on projects.<br>🌱I'm currently learning Front-End web development.
+👨🏽‍🎓Final year student pursuing B.Tech CSE from NIIT University.<br>🧑🏽‍💻I'm an aspiring web developer.<br>👯I'm open to collaborate on projects.<br>🌱I'm currently learning Front-End web development.
 
 
 ## 🌐 Socials:
